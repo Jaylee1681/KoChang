@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>내 마음대로 코창서버 문파원 고르기</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>내 마음대로 코창서버 문파원 고르기</h1>
+
+    <!-- 이미지 추가를 위한 URL 입력 -->
+    <div id="uploadSection">
+        <label for="imageUrlInput">스트리머 추가 (프로필URL 입력)</label>
+        <input type="text" id="imageUrlInput" placeholder="이미지 URL 입력">
+        <button id="addImageButton">이미지 추가</button>
+    </div>
+
+    <!-- 등록된 이미지가 나열될 영역 1 -->
+    <div id="zone1Container">
+        <span>스트리머 목록</span>
+        <div id="zone1" class="image-zone"></div>
+    </div>
+
+    <!-- 이미지가 이동될 영역 2 -->
+    <div id="zone2Container">
+        <span>선택된 문파원</span>
+        <div id="zone2" class="image-zone"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

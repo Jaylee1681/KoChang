@@ -1,0 +1,72 @@
+/* 기본 레이아웃 설정 */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+/* 이미지 추가 섹션 */
+#uploadSection {
+    margin-bottom: 20px;
+}
+
+/* 영역 레이블 바깥쪽으로 이동 */
+#zone1Container, #zone2Container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+/* 각 영역의 기본 스타일 */
+.image-zone {
+    width: 2000px;
+    min-height: 200px;
+    margin-top: 5px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap; /* 가로 길이를 넘으면 자동 줄바꿈 */
+    gap: 5px;
+}
+
+/* 영역 1은 구분선 없음 */
+#zone1 {
+    border: none;
+}
+
+/* 영역 2는 기본 구분선 */
+#zone2 {
+    border: 2px dashed #ccc;
+}
+
+/* 영역 1의 원형 이미지 */
+#zone1 .circle-image {
+    width: 80px;
+    height: 80px;
+}
+
+/* 영역 2의 원형 이미지 */
+#zone2 .circle-image {
+    width: 140px;
+    height: 14cap;
+}
+
+/* 공통 스타일 */
+.circle-image {
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.circle-image:hover {
+    transform: scale(1.1); /* 이미지에 마우스 오버 시 확대 효과 */
+}
