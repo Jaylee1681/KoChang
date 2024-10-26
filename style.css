@@ -88,9 +88,19 @@ h1 {
     text-align: center;
 }
 
-/* 파란색 외곽선 추가 */
+/* 파란색 외곽선 */
 .blue-border {
-    border: 3px solid blue; /* 파란색 외곽선 */
+    border: 3px solid blue;
+}
+
+/* 빨간색 외곽선 */
+.red-border {
+    border: 3px solid red;
+}
+
+/* 초록색 외곽선 */
+.green-border {
+    border: 3px solid green;
 }
 
 /* 영역 2의 이미지 크기 */
