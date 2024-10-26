@@ -2,7 +2,7 @@ const zone1 = document.getElementById('zone1');
 const zone2 = document.getElementById('zone2');
 const addImageButton = document.getElementById('addImageButton');
 const imageUrlInput = document.getElementById('imageUrlInput');
-
+ 
 // 고정된 이미지 URL 목록과 이름, 외곽선 여부
 const fixedImages = [
             { name: '성태', url: 'https://stimg.sooplive.co.kr/LOGO/rr/rrvv17/m/rrvv17.webp', borderColor: 'green' },
