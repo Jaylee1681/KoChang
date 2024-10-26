@@ -168,7 +168,7 @@ const fixedImages = [
         { name: '서민수', url: 'https://stimg.sooplive.co.kr/LOGO/tn/tn5517/m/tn5517.webp', hasBorder: false },
         { name: '희꾸미', url: 'https://stimg.sooplive.co.kr/LOGO/dd/ddr9463/m/ddr9463.webp', hasBorder: false },
         { name: '졔리', url: 'https://stimg.sooplive.co.kr/LOGO/0j/0jjerry0/m/0jjerry0.webp', hasBorder: false },
-        { name: '윤이제', url: 'https://stimg.sooplive.co.kr/LOGO/ez/eze1017/m/eze1017.webp', hasBorder: false },
+        { name: '임아', url: 'https://stimg.sooplive.co.kr/LOGO/10/1004suna/m/1004suna.webp', hasBorder: false },
         { name: '앙또', url: 'https://stimg.sooplive.co.kr/LOGO/aa/aangdoxx/m/aangdoxx.webp', hasBorder: false },
         { name: '유나', url: 'https://stimg.sooplive.co.kr/LOGO/to/top6373/m/top6373.webp', hasBorder: false },
         { name: '양이로', url: 'https://stimg.sooplive.co.kr/LOGO/ya/yang2ro/m/yang2ro.webp', hasBorder: false },
@@ -193,7 +193,7 @@ const fixedImages = [
         { name: '박해원', url: ' https://stimg.sooplive.co.kr/LOGO/go/godnjs8482/m/godnjs8482.webp', hasBorder: false },
         { name: '파이브', url: ' https://stimg.sooplive.co.kr/LOGO/im/imsofive/m/imsofive.webp', hasBorder: false },
         { name: '고채린', url: ' https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', hasBorder: false },
-        { name: '박해원', url: ' https://stimg.sooplive.co.kr/LOGO/jo/joyjo2/m/joyjo2.webp', hasBorder: false },
+        { name: '쪼이', url: ' https://stimg.sooplive.co.kr/LOGO/jo/joyjo2/m/joyjo2.webp', hasBorder: false },
  
 
     ];
