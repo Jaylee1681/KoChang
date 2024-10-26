@@ -195,6 +195,7 @@ const fixedImages = [
         { name: '파이브', url: ' https://stimg.sooplive.co.kr/LOGO/im/imsofive/m/imsofive.webp', hasBorder: false },
         { name: '고채린', url: ' https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', hasBorder: false },
         { name: '쪼이', url: ' https://stimg.sooplive.co.kr/LOGO/jo/joyjo2/m/joyjo2.webp', hasBorder: false },
+        { name: '린브', url: ' https://stimg.sooplive.co.kr/LOGO/ti/tinkcho123/m/tinkcho123.webp', hasBorder: false },
  
 
     ];
