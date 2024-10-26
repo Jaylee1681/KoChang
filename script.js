@@ -194,8 +194,8 @@ const fixedImages = [
         { name: '고채린', url: ' https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', borderColor: 'red' },
         { name: '쪼이', url: ' https://stimg.sooplive.co.kr/LOGO/jo/joyjo2/m/joyjo2.webp', borderColor: 'blue' },
         { name: '린브', url: ' https://stimg.sooplive.co.kr/LOGO/ti/tinkcho123/m/tinkcho123.webp', borderColor: 'blue' },
-        { name: '최은뽀', url: ' https://stimg.sooplive.co.kr/LOGO/eu/eunpp0/m/eunpp0.webp', borderColor: 'blue' },
-        { name: '설이', url: ' https://stimg.sooplive.co.kr/LOGO/mi/mini8282/m/mini8282.webp', borderColor: 'blue' },
+        { name: '최은뽀', url: ' https://stimg.sooplive.co.kr/LOGO/eu/eunpp0/m/eunpp0.webp', borderColor: 'red' },
+        { name: '설이', url: ' https://stimg.sooplive.co.kr/LOGO/mi/mini8282/m/mini8282.webp', borderColor: 'red' },
 
 
     ];
