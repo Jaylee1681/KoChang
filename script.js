@@ -169,7 +169,6 @@ const fixedImages = [
         { name: '서민수', url: 'https://stimg.sooplive.co.kr/LOGO/tn/tn5517/m/tn5517.webp', hasBorder: false },
         { name: '희꾸미', url: 'https://stimg.sooplive.co.kr/LOGO/dd/ddr9463/m/ddr9463.webp', hasBorder: false },
         { name: '졔리', url: 'https://stimg.sooplive.co.kr/LOGO/0j/0jjerry0/m/0jjerry0.webp', hasBorder: false },
-        { name: '임아', url: 'https://stimg.sooplive.co.kr/LOGO/10/1004suna/m/1004suna.webp', hasBorder: false },
         { name: '앙또', url: 'https://stimg.sooplive.co.kr/LOGO/aa/aangdoxx/m/aangdoxx.webp', hasBorder: false },
         { name: '유나', url: 'https://stimg.sooplive.co.kr/LOGO/to/top6373/m/top6373.webp', hasBorder: false },
         { name: '양이로', url: 'https://stimg.sooplive.co.kr/LOGO/ya/yang2ro/m/yang2ro.webp', hasBorder: false },
