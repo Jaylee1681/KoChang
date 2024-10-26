@@ -50,7 +50,7 @@ h1 {
 .image-container {
     display: flex;
     flex-direction: column;
-    align-items: center;ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+    align-items: center;
     position: relative; /* 왕관을 이미지 밖에 배치하기 위해 */
 }
 
