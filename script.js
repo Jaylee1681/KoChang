@@ -158,7 +158,6 @@ const fixedImages = [
         { name: '빈쫑', url: 'https://stimg.sooplive.co.kr/LOGO/tj/tjd10477/m/tjd10477.webp', borderColor: 'blue' },
         { name: '멍보리', url: 'https://stimg.sooplive.co.kr/LOGO/bb/bb0rii/m/bb0rii.webp', borderColor: 'red'},
         { name: '아쿠아즈', url: 'https://stimg.sooplive.co.kr/LOGO/zz/zzkkk8883/m/zzkkk8883.webp', borderColor: 'blue' },
-        { name: '문모모', url: 'https://stimg.sooplive.co.kr/LOGO/do/doormomo/m/doormomo.webp', borderColor: 'red' },
         { name: '수하', url: 'https://stimg.sooplive.co.kr/LOGO/le/leesuha/m/leesuha.webp', borderColor: 'blue' },
         { name: '슨미', url: 'https://stimg.sooplive.co.kr/LOGO/jj/jjgod9312/m/jjgod9312.webp', borderColor: 'red' },
         { name: '유연서', url: 'https://stimg.sooplive.co.kr/LOGO/cc/cctvno/m/cctvno.webp', borderColor: 'red' },
