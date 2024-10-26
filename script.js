@@ -5,7 +5,7 @@ const imageUrlInput = document.getElementById('imageUrlInput');
 
 // 고정된 이미지 URL 목록과 이름, 외곽선 여부
 const fixedImages = [
-      { name: '성태', url: 'https://stimg.sooplive.co.kr/LOGO/rr/rrvv17/m/rrvv17.webp', hasBorder: true },
+       { name: '성태', url: 'https://stimg.sooplive.co.kr/LOGO/rr/rrvv17/m/rrvv17.webp', hasBorder: true },
         { name: '오아', url: 'https://stimg.sooplive.co.kr/LOGO/le/legendhyuk/m/legendhyuk.webp', hasBorder: true }, 
         { name: '봉준', url: 'https://stimg.sooplive.co.kr/LOGO/kh/khm11903/m/khm11903.webp', hasBorder: true },
         { name: '수피', url: 'https://stimg.sooplive.co.kr/LOGO/lo/lovely5959/m/lovely5959.webp', hasBorder: true }, 
@@ -194,7 +194,7 @@ const fixedImages = [
         { name: '파이브', url: ' https://stimg.sooplive.co.kr/LOGO/im/imsofive/m/imsofive.webp', hasBorder: false },
         { name: '고채린', url: ' https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', hasBorder: false },
         { name: '박해원', url: ' https://stimg.sooplive.co.kr/LOGO/jo/joyjo2/m/joyjo2.webp', hasBorder: false },
-
+ 
 
     ];
 
