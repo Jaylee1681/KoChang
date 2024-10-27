@@ -5,7 +5,7 @@ const virtualZone = document.getElementById('virtualZone');
 const zone2 = document.getElementById('zone2');
 const addImageButton = document.getElementById('addImageButton');
 const imageUrlInput = document.getElementById('imageUrlInput');
-
+ 
 // 고정된 이미지 URL 목록과 이름, 카테고리 정보
 const fixedImages = [
     { name: '성태', url: 'https://stimg.sooplive.co.kr/LOGO/rr/rrvv17/m/rrvv17.webp', category: 'leader', borderColor: 'green' },
