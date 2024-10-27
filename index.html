@@ -7,24 +7,27 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <h1>내 마음대로 코창서버 문파원 고르기</h1>
-
-    <!-- 이미지 추가를 위한 URL 입력 -->
-    <div id="uploadSection">
-        <label for="imageUrlInput">스트리머 추가 (프로필URL 입력)</label>
-        <input type="text" id="imageUrlInput" placeholder="이미지 URL 입력">
-        <button id="addImageButton">이미지 추가</button>
-    </div>
-
-    <!-- 등록된 이미지가 나열될 영역 1 -->
+    <!-- 등록된 이미지가 나열될 영역 1 (카테고리별) -->
     <div id="zone1Container">
-        <span>스트리머 목록</span>
-        <div id="zone1" class="image-zone"></div>
+        <h2>수장</h2>
+        <div id="leaderZone" class="image-zone"></div>
+
+        <h2>남자</h2>
+        <div id="maleZone" class="image-zone"></div>
+
+        <h2>여자</h2>
+        <div id="femaleZone" class="image-zone"></div>
+
+        <h2>버튜버</h2>
+        <div id="virtualZone" class="image-zone"></div>
     </div>
+
 
     <!-- 이미지가 이동될 영역 2 -->
     <div id="zone2Container">
-        <span>선택된 문파원</span>
+        <h3>선택된 문파원</h3>
         <div id="zone2" class="image-zone"></div>
     </div>
 
