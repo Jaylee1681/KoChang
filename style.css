@@ -45,7 +45,7 @@ body {
 /* 이미지 밑에 이름 표시 */
 .image-name {
     margin-top: 5px;
-    font-size: 18vw; /* 창 크기에 따라 글씨 크기 조절 */
+    font-size: 18px; /* 창 크기에 따라 글씨 크기 조절 */
     text-align: center;
 }
 
