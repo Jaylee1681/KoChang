@@ -31,6 +31,7 @@ const fixedImages = [
     { name: '핼띠', url: 'https://stimg.sooplive.co.kr/LOGO/go/gofl1244/m/gofl1244.webp', category: 'female', borderColor: 'red' },
     { name: '이톨', url: 'https://stimg.sooplive.co.kr/LOGO/tj/tjsrhr123/m/tjsrhr123.webp', category: 'female', borderColor: 'red' },
     { name: '보고니', url: 'https://stimg.sooplive.co.kr/LOGO/bo/bogong/m/bogong.webp', category: 'female', borderColor: 'red' },
+    { name: '심술', url: 'https://stimg.sooplive.co.kr/LOGO/js/jss1542/m/jss1542.webp', category: 'vtuber', borderColor: 'red' },
 
     //남자 리스트
     { name: '도현', url: 'https://stimg.sooplive.co.kr/LOGO/do/dobby1031/m/dobby1031.webp', category: 'male', borderColor: 'blue' },
@@ -151,7 +152,6 @@ const fixedImages = [
     { name: '온네님', url: 'https://stimg.sooplive.co.kr/LOGO/oo/ooonae/m/ooonae.webp', category: 'vtuber', borderColor: 'red' },
     { name: '파니', url: 'https://stimg.sooplive.co.kr/LOGO/ba/baeksoon2/m/baeksoon2.webp', category: 'vtuber', borderColor: 'red' },
     { name: '솜주먹', url: 'https://stimg.sooplive.co.kr/LOGO/ld/ldrboo/m/ldrboo.webp', category: 'vtuber', borderColor: 'red' },
-    { name: '심술', url: 'https://stimg.sooplive.co.kr/LOGO/js/jss1542/m/jss1542.webp', category: 'vtuber', borderColor: 'red' },
     { name: '킴나니', url: 'https://stimg.sooplive.co.kr/LOGO/sk/sksgml16/m/sksgml16.webp', category: 'vtuber', borderColor: 'red' },
     { name: '여일', url: 'https://stimg.sooplive.co.kr/LOGO/ye/yeoil22/m/yeoil22.webp', category: 'vtuber', borderColor: 'red' },
     { name: '라먀니', url: 'https://stimg.sooplive.co.kr/LOGO/20/20221010/m/20221010.webp', category: 'vtuber', borderColor: 'red' },
@@ -198,6 +198,7 @@ const fixedImages = [
     { name: '고채린', url: 'https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', category: 'vtuber', borderColor: 'red' },
     { name: '최은뽀', url: 'https://stimg.sooplive.co.kr/LOGO/eu/eunpp0/m/eunpp0.webp', category: 'vtuber', borderColor: 'red' },
     { name: '설이', url: 'https://stimg.sooplive.co.kr/LOGO/mi/mini8282/m/mini8282.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '란', url: 'https://stimg.sooplive.co.kr/LOGO/ra/rancho0o/m/rancho0o.webp', category: 'vtuber', borderColor: 'red' },
 
 ];
 
