@@ -200,7 +200,9 @@ const fixedImages = [
     { name: '고채린', url: 'https://stimg.sooplive.co.kr/LOGO/rj/rjsdnr115/m/rjsdnr115.webp', category: 'vtuber', borderColor: 'red' },
     { name: '최은뽀', url: 'https://stimg.sooplive.co.kr/LOGO/eu/eunpp0/m/eunpp0.webp', category: 'vtuber', borderColor: 'red' },
     { name: '설이', url: 'https://stimg.sooplive.co.kr/LOGO/mi/mini8282/m/mini8282.webp', category: 'vtuber', borderColor: 'red' },
-    { name: '란', url: 'https://stimg.sooplive.co.kr/LOGO/ra/rancho0o/m/rancho0o.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '란쵸', url: 'https://stimg.sooplive.co.kr/LOGO/ra/rancho0o/m/rancho0o.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '강희또', url: 'https://stimg.sooplive.co.kr/LOGO/he/heeddo0910/m/heeddo0910.webp', category: 'vtuber', borderColor: 'red' },
+ 
 
 ];
 
