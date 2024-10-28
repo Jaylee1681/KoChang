@@ -31,7 +31,7 @@ const fixedImages = [
     { name: '핼띠', url: 'https://stimg.sooplive.co.kr/LOGO/go/gofl1244/m/gofl1244.webp', category: 'female', borderColor: 'red' },
     { name: '이톨', url: 'https://stimg.sooplive.co.kr/LOGO/tj/tjsrhr123/m/tjsrhr123.webp', category: 'female', borderColor: 'red' },
     { name: '보고니', url: 'https://stimg.sooplive.co.kr/LOGO/bo/bogong/m/bogong.webp', category: 'female', borderColor: 'red' },
-    { name: '심술', url: 'https://stimg.sooplive.co.kr/LOGO/js/jss1542/m/jss1542.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '심술', url: 'https://stimg.sooplive.co.kr/LOGO/js/jss1542/m/jss1542.webp', category: 'female', borderColor: 'red' },
 
     //남자 리스트
     { name: '도현', url: 'https://stimg.sooplive.co.kr/LOGO/do/dobby1031/m/dobby1031.webp', category: 'male', borderColor: 'blue' },
