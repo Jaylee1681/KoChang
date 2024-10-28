@@ -102,6 +102,8 @@ const fixedImages = [
 
 
     //버튜버 리스트
+    { name: '하이요', url: 'https://stimg.sooplive.co.kr/LOGO/so/song1218/m/song1218.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '야무지', url: 'https://stimg.sooplive.co.kr/LOGO/la/land4968/m/land4968.webp', category: 'vtuber', borderColor: 'red' },
     { name: '라로시', url: 'https://stimg.sooplive.co.kr/LOGO/la/larothy/m/larothy.webp', category: 'vtuber', borderColor: 'red' },
     { name: '망구랑', url: 'https://stimg.sooplive.co.kr/LOGO/nm/nmangoquince/m/nmangoquince.webp', category: 'vtuber', borderColor: 'red' },
     { name: '표우', url: 'https://stimg.sooplive.co.kr/LOGO/py/pyowoo/m/pyowoo.webp', category: 'vtuber', borderColor: 'red' },
