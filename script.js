@@ -98,6 +98,7 @@ const fixedImages = [
     { name: '지워니:D', url: 'https://stimg.sooplive.co.kr/LOGO/sk/sk6902/m/sk6902.webp', category: 'male', borderColor: 'blue' },
     { name: '최르', url: 'https://profile.img.sooplive.co.kr/LOGO/cs/csc0568/csc0568.jpg', category: 'male', borderColor: 'blue' },
     { name: '바뮤', url: 'https://stimg.sooplive.co.kr/LOGO/ba/bamyu0/m/bamyu0.webp', category: 'male', borderColor: 'blue' },
+    { name: '빈쫑', url: ' https://stimg.sooplive.co.kr/LOGO/tj/tjd10477/m/tjd10477.webp', category: 'male', borderColor: 'blue' },
 
 
     //버튜버 리스트
@@ -117,6 +118,7 @@ const fixedImages = [
     { name: '한아련', url: 'https://stimg.sooplive.co.kr/LOGO/rk/rkdmsdl782/m/rkdmsdl782.webp', category: 'vtuber', borderColor: 'red' },
     { name: '새라새라', url: 'https://stimg.sooplive.co.kr/LOGO/gm/gmmw/m/gmmw.webp', category: 'vtuber', borderColor: 'red' },
     { name: '차밍챠', url: 'https://stimg.sooplive.co.kr/LOGO/ch/chamingcha/m/chamingcha.webp', category: 'vtuber', borderColor: 'red' },
+    { name: '리카', url: ' https://stimg.sooplive.co.kr/LOGO/li/lika07/m/lika07.webp', category: 'vtuber', borderColor: 'red' },
     { name: '임하밍', url: 'https://stimg.sooplive.co.kr/LOGO/im/imha22/m/imha22.webp', category: 'vtuber', borderColor: 'red' },
     { name: '엔쥬', url: 'https://stimg.sooplive.co.kr/LOGO/no/northpole/m/northpole.webp', category: 'vtuber', borderColor: 'red' },
     { name: '잠결', url: 'https://stimg.sooplive.co.kr/LOGO/za/zamgyeol/m/zamgyeol.webp', category: 'vtuber', borderColor: 'red' },
